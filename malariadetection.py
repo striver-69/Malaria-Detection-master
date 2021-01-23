@@ -2,7 +2,7 @@
 
 # -*- coding: utf-8 -*-
 """
-@author: Krish.Naik
+@author: Chiranjivee
 """
 
 ## MAlaria Detection using Transfer Learning
